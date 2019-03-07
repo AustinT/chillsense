@@ -1,0 +1,45 @@
+# Site settings
+title: Chillsense
+email: chillsense.fydp@gmail.com
+url: https://example.github.io
+description: "Website for Chillsense temperature sensing technology."
+keywords: "Chillsense, temperature, medication"
+tagline: "A sensor that travels with you"
+meta_author: Tripp Austin
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+# disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Chillsense
+  location: Location
+  credits: Credits 
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 200 University Ave W
+  - line: Waterloo, ON N2L 3G1
+
+# Credits content
+credits: 
+    - line: 'Tom, Qianshu, Hayley, Austin.'
+    - line: 'Dr. Prouzet for supervision and resources.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
