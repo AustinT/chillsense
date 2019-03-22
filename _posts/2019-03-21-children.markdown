@@ -4,6 +4,6 @@ modal-id: 1
 img: child.jpg
 alt: image-alt
 category: Medicine
-description: Chillsense is great for kids! Know whether your kids have kept their medicines safe while out and about.
+description: ChillSense is great for kids! Know whether your kids have kept their medicines safe while out and about.
 
 ---

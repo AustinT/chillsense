@@ -1,9 +1,9 @@
 # Site settings
-title: Chillsense
+title: ChillSense
 email: chillsense.fydp@gmail.com
 url: https://example.github.io
-description: "Website for Chillsense temperature sensing technology."
-keywords: "Chillsense, temperature, medication"
+description: "Website for ChillSense temperature sensing technology."
+keywords: "ChillSense, temperature, medication"
 tagline: "Medication Monitoring Made Simple"
 meta_author: Tripp Austin
 
@@ -26,7 +26,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Chillsense
+  copyright: ChillSense
   location: Location
   credits: Credits 
 
