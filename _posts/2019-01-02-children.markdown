@@ -1,9 +1,0 @@
----
-layout: default
-modal-id: 2
-img: child.jpg
-alt: image-alt
-category: Medicine
-description: Know whether your kids have kept their medicines safe while out and about!
-
----

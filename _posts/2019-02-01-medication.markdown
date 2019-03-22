@@ -1,9 +1,9 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 2
 img: drugs.jpg
 alt: image-alt
 category: Medicine
-description: Protect your temperature-sensitive medications.
+description: ChillSense works for all kinds of temperature sensitive medications. Use ChillSense for all of your temperature-sensitive medications.
 
 ---
